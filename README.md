@@ -18,20 +18,21 @@ Perfect for beginners, indie devs, and teams who want to bootstrap a well-struct
 
 ## 📂 Folder Structure
 
-App/
-Core/
-├─ Utilities/
-└─ Extensions/
-Data/
-├─ Models/
-└─ Repositories/
-Domain/
-├─ Entities/
-└─ UseCases/
-Presentation/
-├─ ViewModels/
-└─ Views/
-Resources/
+App/  
+Core/  
+├─ Utilities/  
+└─ Extensions/  
+Data/  
+├─ Models/  
+└─ Repositories/  
+Domain/  
+├─ Entities/  
+└─ UseCases/  
+Presentation/  
+├─ ViewModels/  
+└─ Views/  
+Resources/  
+
 
 ---
 
