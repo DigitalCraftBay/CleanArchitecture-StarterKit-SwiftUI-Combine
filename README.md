@@ -45,6 +45,20 @@ Resources/
 
 ---
 
+## 🛒 Upgrade to Pro (Coming Soon)
+
+Want more power? The **Pro Version** includes:
+- ✅ RxSwift + Combine support
+- ✅ Modular architecture (MVVM-C)
+- ✅ Repositories with real API service
+- ✅ Routing & Error handling
+- ✅ Advanced folder setup & reusable components
+
+🔗 [Follow DigitalCraftBay on Gumroad](https://digitalcraftbay.gumroad.com)  
+📩 Link to Pro Version: https://digitalcraftbay.gumroad.com/l/kaijz
+
+---
+
 ## 👩‍💻 Author
 
 Built with ❤️ by [DigitalCraftBay](https://github.com/digitalcraftbay)  
