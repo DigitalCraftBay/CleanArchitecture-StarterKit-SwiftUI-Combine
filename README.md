@@ -45,7 +45,7 @@ Resources/
 
 ---
 
-## 🛒 Upgrade to Pro (Coming Soon)
+## 🛒 Upgrade to Pro 
 
 Want more power? The **Pro Version** includes:
 - ✅ RxSwift + Combine support
