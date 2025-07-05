@@ -55,7 +55,7 @@ Want more power? The **Pro Version** includes:
 - ✅ Advanced folder setup & reusable components
 
 🔗 [Follow DigitalCraftBay on Gumroad](https://digitalcraftbay.gumroad.com)  
-📩 Link to Pro Version: https://digitalcraftbay.gumroad.com/l/kaijz
+📩 Link to Pro Version: https://digitalcraftbay.gumroad.com/l/cleanarchitecturepro
 
 ---
 
